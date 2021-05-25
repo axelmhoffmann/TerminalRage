@@ -1,0 +1,32 @@
+
+
+ ██████╗██╗  ██╗ █████╗ ██████╗ ███████╗██╗ ██████╗ ██╗  ██╗████████╗
+██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝██║██╔════╝ ██║  ██║╚══██╔══╝
+██║     ███████║███████║██████╔╝█████╗  ██║██║  ███╗███████║   ██║   
+██║     ██╔══██║██╔══██║██╔══██╗██╔══╝  ██║██║   ██║██╔══██║   ██║   
+╚██████╗██║  ██║██║  ██║██║  ██║██║     ██║╚██████╔╝██║  ██║   ██║   
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
+
+ Input name:    Invalid input. Ensure name is alphanumeric
+
+ Input name:  
+ 1 : Sword
+ 2 : Magic Staff
+
+ Input weapon number (1 - 2):    Invalid input. Try again
+
+ Input weapon number (1 - 2):   SELECTED Sword
+
+
+ CONTROLS:
+  - Use the arrow keys to move around
+  - Use combinations of 'z' and 'x' keys to attack
+
+        [ Sword Info ]
+  A medium range weapon with slow attacks. Landing attacks generate energy.
+  At 10 energy, you can use the Special combo
+ 'zzx' - A ranged thrust that generates 3 energy
+ 'zxx' - An attack that hits a huge area and generates 2 energy
+
+
+ Ready? Enter 'r' to start:  
